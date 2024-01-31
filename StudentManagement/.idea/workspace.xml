@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1a293a78-4cc4-4bbe-805c-9e85e9842a72" name="Changes" comment="" />
+    <list default="true" id="1a293a78-4cc4-4bbe-805c-9e85e9842a72" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab211_private" beforeDir="false" afterPath="$PROJECT_DIR$/lab211_private" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab211_private/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lab211_private/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab211_private/src/Common/Validation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab211_private/src/View/Menu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab211_private/src/View/StudentView.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab211_private/src/View/StudentView.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,24 +25,31 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/lab211_private" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2b43b1xk5JY3IXyoIhid7CLB0iF" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "E:/lab_sem3/StudentManagement/lab211_private"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;lab-student-management&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/lab_sem3/StudentManagement&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="StudentView" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="View.StudentView" />
@@ -64,8 +78,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1705460592995</updated>
+      <workItem from="1706634586316" duration="48000" />
+      <workItem from="1706635351927" duration="11000" />
+      <workItem from="1706669649501" duration="52000" />
+      <workItem from="1706675162746" duration="18000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
