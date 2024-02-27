@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/BST_E_commerce/BST_E_commerce.iml" filepath="$PROJECT_DIR$/BST_E_commerce/BST_E_commerce.iml" />
       <module fileurl="file://$PROJECT_DIR$/StudentView.iml" filepath="$PROJECT_DIR$/StudentView.iml" />
     </modules>
   </component>

@@ -1,0 +1,6 @@
+W 1|Nghia|1978|1100|Hue Campus
+W 2|Lien|1975|1300|Da Nano Campus
+W 3|Hien|1986|1300|Hai Phong Campus
+W 4|Dung|1988|1300|Hue Campus
+W 5|Phong|1993|1300|Here Campus
+A 3|Phong|1980|4444|Phong
