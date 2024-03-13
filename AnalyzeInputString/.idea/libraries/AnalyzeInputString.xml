@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="AnalyzeInputString">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/AnalyzeInputString.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

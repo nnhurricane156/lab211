@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AnalysisStringProgram/AnalysisStringProgram.iml" filepath="$PROJECT_DIR$/AnalysisStringProgram/AnalysisStringProgram.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../AnalysisStringPrograms/AnalysisStringPrograms.iml" filepath="$PROJECT_DIR$/../AnalysisStringPrograms/AnalysisStringPrograms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Validate Program.iml" filepath="$PROJECT_DIR$/Validate Program.iml" />
+    </modules>
+  </component>
+</project>
